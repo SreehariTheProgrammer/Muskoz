@@ -7,6 +7,7 @@ print("Hey, I am the biggest fan of Elon Musk.\n")
 time.sleep(1)
 print("That's why I made this.\n")
 
+time.sleep(2)
 ask = input("Do you like Elon Musk? (y/n): ")
 print("")
 
