@@ -16,7 +16,7 @@ webpage = "https://www.google.com/search?q=elon+musk+is+awesome"
 if ask == "y":
     time.sleep(2)
     print("Great! I am also a great fan of him. Give this project to your friends that don't like Elon Musk and tell them to say no.\n")
-    time.wait(5)
+    time.sleep(5)
 
 elif ask == "n":
     time.sleep(2)
